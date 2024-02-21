@@ -23,6 +23,10 @@ a:hover {
     cursor: pointer;
 }
 
+input[type="button"]:hover {
+    cursor:pointer;
+}
+
 /* Header */
 .head {
     display: flex;
